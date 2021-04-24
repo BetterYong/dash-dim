@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/c_hen.dir/hen/c_hen.cc.o  -o c_hen -lproxy base/libbase.a -lpthread 

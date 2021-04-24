@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/t_asyn_client.dir/tcp/asyn_client_test.cc.o  -o t_asyn_client base/libbase.a -lpthread 

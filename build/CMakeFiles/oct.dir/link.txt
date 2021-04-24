@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/oct.dir/octopus/octopus.cc.o  -o oct liboct_base.a base/libbase.a -lpthread 

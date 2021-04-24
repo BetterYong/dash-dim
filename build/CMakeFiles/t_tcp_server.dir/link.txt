@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/t_tcp_server.dir/tcp/tcp_server_test.cc.o  -o t_tcp_server base/libbase.a -lpthread 

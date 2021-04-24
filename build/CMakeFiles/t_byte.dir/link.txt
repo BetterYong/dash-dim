@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/t_byte.dir/byte_codec_test.cc.o  -o t_byte base/libbase.a -lpthread 

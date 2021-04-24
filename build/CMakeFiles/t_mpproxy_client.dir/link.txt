@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/t_mpproxy_client.dir/tpproxy/mpproxy_client_test.cc.o  -o t_mpproxy_client libproxy.a sequencer/libsequencer.a base/libbase.a -lpthread 

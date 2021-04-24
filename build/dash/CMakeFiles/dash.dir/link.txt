@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdash.a  CMakeFiles/dash.dir/dash_algorithm.cc.o CMakeFiles/dash.dir/dash_client.cc.o CMakeFiles/dash.dir/dash_server.cc.o CMakeFiles/dash.dir/dash_util.cc.o CMakeFiles/dash.dir/split.cc.o
+/usr/bin/ranlib libdash.a

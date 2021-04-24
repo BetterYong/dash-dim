@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboct_base.a  CMakeFiles/oct_base.dir/octopus/arp_server.cc.o CMakeFiles/oct_base.dir/octopus/octopus_base.cc.o
+/usr/bin/ranlib liboct_base.a

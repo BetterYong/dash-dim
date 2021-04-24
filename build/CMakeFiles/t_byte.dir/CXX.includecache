@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zsy/dash-sim/base/byte_codec.h
+cstddef
+-
+string
+-
+stdint.h
+-
+net_endian.h
+/home/zsy/dash-sim/base/net_endian.h
+
+/home/zsy/dash-sim/base/net_endian.h
+algorithm
+-
+
+/home/zsy/dash-sim/byte_codec_test.cc
+iostream
+-
+base/byte_codec.h
+/home/zsy/dash-sim/base/byte_codec.h
+

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iplab/dash-sim/octopus/arp_request.cc
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+sys/ioctl.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+netinet/in.h
+-
+netinet/if_ether.h
+-
+net/ethernet.h
+-
+net/if_arp.h
+-
+net/if.h
+-
+netpacket/packet.h
+-
+

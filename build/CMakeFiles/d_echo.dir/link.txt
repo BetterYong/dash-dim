@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/d_echo.dir/hen/d_echo.cc.o  -o d_echo base/libbase.a -lpthread 

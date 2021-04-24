@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/print_ip.dir/tools/print_ip.cc.o  -o print_ip base/libbase.a 

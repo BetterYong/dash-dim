@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/t_dash_client.dir/dash/dash_client_test.cc.o  -o t_dash_client dash/libdash.a base/libbase.a -lpthread 

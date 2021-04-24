@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/oct_client.dir/octopus/octopus_client_test.cc.o  -o oct_client libproxy.a base/libbase.a -lpthread 

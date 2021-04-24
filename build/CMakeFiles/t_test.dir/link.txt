@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/t_test.dir/main_test.cc.o  -o t_test base/libbase.a -lpthread 

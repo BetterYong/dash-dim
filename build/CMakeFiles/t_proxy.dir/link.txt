@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/t_proxy.dir/tpproxy/tpproxy_server_test.cc.o  -o t_proxy libproxy.a base/libbase.a -lpthread 

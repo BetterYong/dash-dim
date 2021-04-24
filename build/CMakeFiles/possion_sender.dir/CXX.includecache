@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iplab/dash-sim/tools/possion_sender.cc
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+netinet/in.h
+-
+sys/ioctl.h
+-
+fcntl.h
+-
+stdbool.h
+-
+chrono
+-
+time.h
+-
+math.h
+-
+signal.h
+-
+stdlib.h
+-
+iostream
+-
+

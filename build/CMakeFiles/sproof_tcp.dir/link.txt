@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/sproof_tcp.dir/hen/sproof_tcp.cc.o  -o sproof_tcp base/libbase.a 

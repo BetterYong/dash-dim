@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/t_log.dir/hen/log_main.cc.o  -o t_log base/libbase.a 

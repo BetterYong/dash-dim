@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsequencer.a  CMakeFiles/sequencer.dir/quic_error_codes.cc.o CMakeFiles/sequencer.dir/quic_stream_frame.cc.o CMakeFiles/sequencer.dir/quic_stream_sequencer.cc.o CMakeFiles/sequencer.dir/quic_stream_sequencer_buffer.cc.o
+/usr/bin/ranlib libsequencer.a
